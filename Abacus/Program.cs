@@ -17,7 +17,7 @@ namespace Abacus
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
 
-            Console.WriteLine("TEST");
+            Console.WriteLine("TEST 980");
         }
     }
 }
