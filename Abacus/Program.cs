@@ -18,7 +18,7 @@ namespace Abacus
             Application.Run(new Form1());
 
 
-            Console.WriteLine("TEST");
+            Console.WriteLine("980");
 
         }
     }
